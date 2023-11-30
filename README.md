@@ -32,15 +32,15 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>Django</span><br><br><br>
-        <img height="64px" src="https://img.icons8.com/color/452/nodejs.png">
+        <img height="64px" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
       </td>
       <td width="25%" align="center">
         <span>PostgreSQL</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png">
       </td>
       <td width="25%" align="center">
         <span>JavaScript</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png">
       </td>
       <td width="25%" align="center">
         <span>NodeJs</span><br><br><br>
