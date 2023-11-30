@@ -54,11 +54,11 @@
       </td>
       <td width="25%" align="center">
         <span>HTML5</span><br><br><br>
-        <img height="64px" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg">
+        <img height="64px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png">
       </td>
       <td width="25%" align="center">
         <span>CSS</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/css3.svg">
+        <img height="64px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png">
       </td>
        <td width="25%" align="center">
         <span>MongoDb Atlas</span><br><br><br>
