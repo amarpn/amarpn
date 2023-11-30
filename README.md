@@ -31,6 +31,24 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
+        <span>Django</span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/color/452/nodejs.png">
+      </td>
+      <td width="25%" align="center">
+        <span>PostgreSQL</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>JavaScript</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>NodeJs</span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/color/452/nodejs.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
         <span>𝗖++</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
       </td>
@@ -43,35 +61,11 @@
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/css3.svg">
       </td>
        <td width="25%" align="center">
-        <span>FireBase</span><br><br><br>
-        <img height="64px" src="https://img.icons8.com/color/452/firebase.png">
-      </td>
-       <td width="25%" align="center">
         <span>MongoDb Atlas</span><br><br><br>
         <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png">
       </td>
     </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Sublime</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>JavaScript</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Figma</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/figma-682083.png">
-      </td>
-       <td width="25%" align="center">
-        <span>Flutter</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png">
-      </td>
-      <td width="25%" align="center">
-        <span>NodeJs</span><br><br><br>
-        <img height="64px" src="https://img.icons8.com/color/452/nodejs.png">
-      </td>
+    
       
   </tbody>
 </table>
